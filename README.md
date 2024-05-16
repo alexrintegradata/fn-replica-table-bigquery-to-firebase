@@ -1,2 +1,2 @@
-# fn-replica-table-bigquery-to-firebase-
+# fn-replica-table-bigquery-to-firebase
 exporta tablas desde bigquery hacia firebase
