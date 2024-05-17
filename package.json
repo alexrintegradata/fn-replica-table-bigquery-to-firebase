@@ -1,0 +1,17 @@
+{
+  "name": "cloudfunctions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/bigquery": "^7.3.0",
+    "@google-cloud/functions-framework": "^3.3.0",
+    "firebase-admin": "^11.11.1",
+    "pg": "^8.11.5"
+  }
+}
